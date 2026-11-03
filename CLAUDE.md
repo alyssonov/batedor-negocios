@@ -21,7 +21,8 @@ Os arquivos ficam na raiz desta pasta: `scout.md`, `list.md`, `sheets/` e `morni
 **Scout (01:00)**
 1. Abra https://trustmrr.com/api/ai/discovery e pegue os 25 itens de `fastestGrowingStartups`.
 2. Abra o link de cada um no TrustMRR com `.md` no final (exemplo: `https://trustmrr.com/startup/<slug>.md`).
-3. Salve em `scout.md`, um bloco por negócio: nome, link do TrustMRR, site, provedor de pagamento, a seção Revenue **copiada como está**, os canais (ou "vazio"), os seguidores do fundador no X e o campo stealthMode.
+3. Salve em `scout.md`, um bloco por negócio: nome, link do TrustMRR, site, provedor de pagamento, a seção Revenue **copiada como está** (incluindo a tabela "Daily revenue — last 30 days" resumida em "X de 30 dias com pagamento" e o maior dia, e a tabela "Monthly revenue timeline"), os canais (linha "Marketing channels" em Distribution, ou "vazio"), os seguidores do fundador no X e o campo stealthMode.
+   Dica: dá para baixar com `curl -sS https://trustmrr.com/api/ai/discovery` e `curl -sS https://trustmrr.com/startup/<slug>.md` quando o WebFetch resumir demais.
 4. Se uma página não abrir, escreva "did not open" e siga para o próximo.
 
 **Checker (03:00)**
