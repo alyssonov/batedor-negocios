@@ -37,6 +37,7 @@ Para o vencedor de maior nota cujo site abre, escreva uma ficha de uma página c
 - A oferta, com os preços tirados do próprio site e o jeito como as pessoas pagam.
 - Os canais, cada um marcado "TrustMRR" ou "web search".
 - Três variações que eu consigo fazer só programando: outro público, outro canal e uma mudança na oferta.
+- Uma **versão Brasil**: a demanda brasileira em português (com links), até 3 concorrentes BR, o pagamento local (Pix, Mercado Pago, Hotmart, Kiwify), uma sugestão de preço em R$ (marcada como sugestão) e um canal BR para os primeiros clientes.
 - No fim, a seção **WHY THIS COULD FAIL**.
 
 **Entrega:** me mande uma mensagem com:
