@@ -1,26 +1,23 @@
-# Bom dia! Resumo de 2026-11-04
+# Bom dia! Resumo de 2026-11-10 (Diária)
 
-## A noite em 3 linhas
-1. As tarefas automáticas rodaram, mas o GitHub recusou os envios por falta de permissão. Rodei tudo de novo na sessão principal às 07:15 e li os 25 negócios do TrustMRR, sem nenhum que não abrisse.
-2. Dos 25, 3 eram stealth, 12 estavam fora de US$ 1 mil a 20 mil e 4 eram "dia de sorte". Sobraram **2 steal-ready**.
-3. A BasinCheck foi pega mentindo sem querer: a API diz $2,226, mas a seção Revenue mostra $2.98 em 30 dias, então ela saiu.
+**Nenhum vencedor novo hoje.** Os 10 negócios dentro do filtro já estavam no `list.md`.
 
-## Vencedores ranqueados
-1. **lumabar** com 22/25, **$2,519** em 30 dias (Polar) e pagamento em **22 de 30 dias**. É um dock que substitui a barra de tarefas do Windows, por $5.99 em pagamento único.
-   - **WHY THIS COULD FAIL:** tem 1 mês de vida, $834 caíram nas últimas 24h (provável viral no Reddit), o ticket é baixo e há concorrentes grátis (Seelen UI, RetroBar).
-2. **Scalereach.ai** com 20/25, **$1,837** em 30 dias (Dodo Payments) e pagamento em **17 de 30 dias**. MRR de $1,558 em 91 assinaturas. Corta vídeos longos em clipes curtos com IA.
-   - **WHY THIS COULD FAIL:** é um mercado lotado (Opus Clip e muitos outros), o custo de GPU e IA é alto e os canais (TikTok, Instagram) exigem conteúdo, que você não faz.
-3. Bidder iQ (15/25), Printotr (14/25) e ECOMSTATEMENT (12/25) dependem de poucos dias de venda. Veja o `list.md`.
-   - **WHY THIS COULD FAIL:** a receita é concentrada demais. O ECOMSTATEMENT tem MRR de $1,149 em só 2 assinaturas, o que pode ser um único cliente.
+## O dia em 3 linhas
+1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram.
+2. Os vencedores de antes estão ficando mais fortes:
+   - **lumabar:** $4,506 em 30 dias, com pagamento em 26 de 30 dias.
+   - **Scalereach:** $2,943 em 30 dias, com MRR de $2,059 em 124 assinaturas.
+3. **Problema:** as rodadas de 06/11 a 09/11 (incluindo a Semanal) não foram concluídas. A cada execução automática, a sessão foi reiniciada antes de terminar, e o envio para o GitHub ficou esperando uma aprovação que ninguém deu. Veja a pergunta abaixo.
 
-## A ficha em 5 linhas (`sheets/lumabar-2026-11-04.md`)
-1. **Demanda:** usuários do Windows 11 pedem de volta a barra de tarefas personalizável, em posts no fórum da Microsoft e no WinCustomize.
-2. **Oferta:** um dock com mais de 100 widgets por $5.99 em pagamento único, com garantia de 14 dias e entrega da chave por e-mail.
-3. **Canais:** Reddit (TrustMRR). Na web não apareceu nenhuma menção de terceiros.
-4. **Meu ângulo:** um dock para traders e lojistas, vendido na Microsoft Store e na Steam, com o app grátis e pacotes de widgets pagos.
-5. **Versão Brasil:** Pix via Kiwify ou Mercado Pago, a sugestão de R$ 19 a 29 e widgets locais (Pix, dólar, Correios). Não encontrei demanda BR que comprove a ideia.
+## Os 3 mais próximos (novos, todos abaixo de US$ 1 mil)
+1. **Morphy:** $950 em 30 dias, pagamento em 23 de 30 dias, MRR de $471 em 67 assinaturas e só 22 seguidores do fundador no X.
+   - **WHY THIS COULD FAIL:** ainda está abaixo do piso de US$ 1 mil. Pode não passar dele.
+2. **Deepnia:** $893 em 30 dias, pagamento em 20 de 30 dias, MRR de $409.
+   - **WHY THIS COULD FAIL:** o fundador tem 4.808 seguidores no X, então o crescimento pode depender da audiência dele. A própria página diz que a maior parte da receita está num provedor que não aparece no TrustMRR.
+3. **ClipUtils:** $603 em 30 dias, pagamento em **30 de 30 dias**, MRR de $379.
+   - **WHY THIS COULD FAIL:** o fundador tem 7.801 seguidores no X, e o valor ainda está bem abaixo do filtro.
 
 ## Esperando sua resposta
-- **Correção das tarefas automáticas:** elas precisam do repositório nas fontes delas. Veja os passos na conversa.
+- **As rodadas automáticas estão travando:** o envio para o GitHub precisa de aprovação, e ninguém aprova às 5h da manhã. Quer que eu libere o `git push` sem perguntar nas configurações (`.claude/settings.json`)?
 - Algum "não" para a lista do não?
-- Quer que eu aprofunde o Scalereach também?
+- Quer começar um projeto a partir do lumabar ou do Scalereach? Os dois continuam crescendo.
