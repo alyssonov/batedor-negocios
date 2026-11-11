@@ -2,6 +2,15 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-11
+
+Filtro: 25 lidos, 4 stealth eliminados. 2 vencedores novos dentro de US$ 1 mil a 20 mil.
+
+1. Morphy | https://www.appmorphy.com/ | https://trustmrr.com/startup/morphy | $1,050 (24 de 30 dias; maior dia 20%) | Stripe | Instagram, TikTok, Discord, YouTube (TrustMRR); concorrentes Parallel Code, Agent Navigator, Claude Code Studio, ACTower (web search) | 2026-11-11 | 19/25 (pagamentos 5, crescimento 2, encaixe 5, demanda 4, vender só 3) | **steal-ready**
+2. TrustQR | https://trustqr.org/ | https://trustmrr.com/startup/trustqr | $1,470 (5 de 30 dias; $600 em 09/11) | Stripe | SEO, LinkedIn (TrustMRR) | 2026-11-11 | 13/25 (2/3/3/3/2) | não
+
+Atualização dos anteriores: lumabar subiu para $5,771 (26 de 30 dias), Scalereach para $3,115 (21 de 30 dias, MRR $2,202) e Prospo para $9,601 (3 de 30 dias, ainda dia de sorte).
+
 ## 2026-11-10
 
 Filtro: 25 lidos, 3 stealth eliminados. Os 10 que estão dentro de US$ 1 mil a 20 mil já estavam neste arquivo. **Nenhum vencedor novo.**
