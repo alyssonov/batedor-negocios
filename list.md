@@ -2,6 +2,14 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-12
+
+Filtro: 25 lidos, 3 stealth eliminados. 1 vencedor novo dentro de US$ 1 mil a 20 mil.
+
+1. TapNoise | https://tapnoise.com/ | https://trustmrr.com/startup/tapnoise | $1,273 (25 de 30 dias; maior dia 23%) | Dodo Payments | Blog, SEO, X (TrustMRR); concorrentes Klack, Mechvibes, KeyBell, Thock (web search) | 2026-11-12 | 17/25 (pagamentos 5, crescimento 2, encaixe 4, demanda 3, vender só 3) | não (1 ponto abaixo)
+
+Atualização dos anteriores: lumabar $5,897 (27 de 30 dias), Scalereach $3,309 (MRR $2,268, 136 assinaturas), Morphy $1,062 (22 de 30 dias).
+
 ## 2026-11-11
 
 Filtro: 25 lidos, 4 stealth eliminados. 2 vencedores novos dentro de US$ 1 mil a 20 mil.
