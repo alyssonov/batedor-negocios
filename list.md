@@ -2,6 +2,12 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-13
+
+Filtro: 25 lidos, 5 stealth eliminados (um deles, hidden-business-88, tinha $1,528 em 30 dias e pagamento em 24 de 30 dias, mas é anônimo). **Nenhum vencedor novo.**
+Mais próximos entre os novos (todos abaixo de US$ 1 mil): Deepnia ($935, 22 de 30 dias), ClipUtils ($728, 30 de 30 dias) e Free Contact Form to Email/formbold ($654, 20 de 30 dias, MRR $656 em 93 assinaturas).
+Atualização dos anteriores: lumabar $6,589 (27 de 30 dias), Scalereach $3,910 (MRR $2,347, 141 assinaturas), TapNoise $1,279 (25 de 30 dias).
+
 ## 2026-11-12
 
 Filtro: 25 lidos, 3 stealth eliminados. 1 vencedor novo dentro de US$ 1 mil a 20 mil.

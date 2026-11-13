@@ -1,22 +1,23 @@
-# Bom dia! Resumo de 2026-11-12 (Diária)
+# Bom dia! Resumo de 2026-11-13 (Diária)
+
+**Nenhum vencedor novo hoje.** O único novo dentro do filtro é anônimo (stealth), e por isso foi eliminado.
 
 ## O dia em 3 linhas
-1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram. Há **1 vencedor novo** dentro de US$ 1 mil a 20 mil.
-2. **TapNoise** (17/25, 1 ponto abaixo de steal-ready): sons de teclado mecânico para Mac, com pagamento em 25 de 30 dias. A ficha está em `sheets/tapnoise-2026-11-12.md`.
-3. Os anteriores seguem firmes: **lumabar** com $5,897 (27 de 30 dias), **Scalereach** com $3,309 (MRR $2,268) e **Morphy** com $1,062.
+1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram. 5 eram stealth.
+2. Os vencedores anteriores continuam crescendo:
+   - **lumabar:** $6,589, com pagamento em 27 de 30 dias.
+   - **Scalereach:** $3,910, com MRR de $2,347 em 141 assinaturas.
+3. A permissão de `git push` ainda não foi liberada no `.claude/settings.json` (o arquivo no GitHub continua igual). O envio de hoje funcionou mesmo assim.
 
-## Vencedor novo
-1. **TapNoise** com 17/25, **$1,273** em 30 dias (Dodo Payments) e pagamento em **25 de 30 dias**. É pagamento único: US$ 14.99 para 1 Mac.
-   - **WHY THIS COULD FAIL:** a receita está desacelerando ($998 em outubro contra $280 em novembro até o dia 11), houve promoção a US$ 1.99, há concorrentes grátis (Mechvibes, Thock, KeyBell) e o Klack custa cerca de US$ 5. É um produto de novidade.
-
-## A ficha em 5 linhas (`sheets/tapnoise-2026-11-12.md`)
-1. **Demanda:** a imprensa chama apps de som de teclado de "weirdly satisfying", e existe uma categoria inteira deles no AlternativeTo.
-2. **Oferta:** Solo US$ 14.99 ou Duo US$ 20.99, pagamento único, sem trial, com reembolso em 7 dias e pagamento via Dodo.
-3. **Canais:** Blog, SEO e X (TrustMRR). Os concorrentes vêm de web search.
-4. **Meu ângulo:** um aviso para quando o agente de IA terminar (para devs), venda pela Mac App Store e uma versão Windows.
-5. **Versão Brasil:** Pix via Kiwify, com a *sugestão* de R$ 19 a 29. Não encontrei demanda BR que comprove a ideia.
+## Os 3 mais próximos (novos, todos abaixo de US$ 1 mil)
+1. **Deepnia:** $935 em 30 dias, pagamento em 22 de 30 dias, MRR de $447.
+   - **WHY THIS COULD FAIL:** o fundador tem 4.808 seguidores no X, e a própria página diz que a maior parte da receita está num provedor fora do TrustMRR.
+2. **ClipUtils:** $728 em 30 dias, pagamento em **30 de 30 dias**, MRR de $428 em 60 assinaturas.
+   - **WHY THIS COULD FAIL:** o fundador tem 7.801 seguidores no X, então a venda pode depender da audiência dele.
+3. **Free Contact Form to Email (formbold):** $654 em 30 dias, pagamento em 20 de 30 dias, MRR de $656 em 93 assinaturas.
+   - **WHY THIS COULD FAIL:** é um nicho cheio de opções gratuitas, e o fundador tem 3.744 seguidores no X.
 
 ## Esperando sua resposta
-- **Rodadas travando:** de 06/11 a 09/11 as rodadas não terminaram. Quer que eu libere o `git push` sem perguntar no `.claude/settings.json`?
+- Você conseguiu colar o novo `.claude/settings.json` no GitHub? O passo a passo está na conversa.
 - Algum "não" para a lista do não?
-- Quer começar um projeto a partir do lumabar, do Scalereach ou do Morphy?
+- Quer começar um projeto a partir do lumabar ou do Scalereach? Os dois seguem subindo há 10 dias.
