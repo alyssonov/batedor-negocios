@@ -2,6 +2,16 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-14
+
+Filtro: 25 lidos, 3 stealth eliminados. 3 vencedores novos dentro de US$ 1 mil a 20 mil.
+
+1. Chart Scanner AI | https://chartscannerai.com/ | https://trustmrr.com/startup/chart-scanner-ai | $3,301 (27 de 30 dias; maior dia 8%) | RevenueCat | TikTok (TrustMRR); concorrentes Trade AI, TradeGPT, Chart AI e outros na App Store (web search) | 2026-11-14 | 19/25 (pagamentos 5, crescimento 4, encaixe 4, demanda 4, vender só 2) | **steal-ready** (com ressalva: app de sinais de trading)
+2. Mafia IA Premium | https://mafiaia.com/ | https://trustmrr.com/startup/mafia-ia-premium-acceso-de-por-vida | $8,365 (16 de 30 dias; $3,195 em 23/10) | Creem | Newsletter, Instagram, LinkedIn, Facebook, Threads, YouTube (TrustMRR) | 2026-11-14 | 11/25 (3/2/2/3/1) | não (depende da comunidade de 19 mil do fundador; outubro $7,142 contra novembro $1,223)
+3. pawr | https://pawr.link/ | https://trustmrr.com/startup/pawr | $2,490 (5 de 30 dias; $2,400 em 13/11) | Stripe | vazio | 2026-11-14 | 8/25 (1/2/2/2/1) | não (dia de sorte; MRR de só $40)
+
+Atualização dos anteriores: lumabar $7,042 (29 de 30 dias), TapNoise $1,298 (26 de 30 dias). O Scalereach saiu do top 25 hoje.
+
 ## 2026-11-13
 
 Filtro: 25 lidos, 5 stealth eliminados (um deles, hidden-business-88, tinha $1,528 em 30 dias e pagamento em 24 de 30 dias, mas é anônimo). **Nenhum vencedor novo.**
