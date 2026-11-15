@@ -2,6 +2,15 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-15
+
+Filtro: 25 lidos, 1 stealth eliminado. 2 vencedores novos dentro de US$ 1 mil a 20 mil.
+
+1. Nagomi | https://nagomi.m4yank.com/ | https://trustmrr.com/startup/nagomi | $1,277 (27 de 30 dias; maior dia 17%) | Polar | vazio (TrustMRR); concorrentes My Koi, Koi Pond 3D, AquaDesk, Desktop Fishes (web search) | 2026-11-15 | 19/25 (pagamentos 5, crescimento 3, encaixe 5, demanda 3, vender só 3) | **steal-ready**
+2. Project 1 | site não informado | https://trustmrr.com/startup/stealth-company-80 | $1,875 (27 de 30 dias; maior dia 10%) | Stripe | vazio | 2026-11-15 | não pontuado | não (sem site, sem descrição do produto, impossível copiar; stealthMode false, mas na prática é anônimo)
+
+Atualização dos anteriores: lumabar $7,199 (29 de 30 dias), Chart Scanner AI $3,369 (28 de 30 dias), TapNoise $1,304 (27 de 30 dias).
+
 ## 2026-11-14
 
 Filtro: 25 lidos, 3 stealth eliminados. 3 vencedores novos dentro de US$ 1 mil a 20 mil.
