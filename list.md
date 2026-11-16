@@ -2,6 +2,18 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-16 (Semanal)
+
+Filtro: 25 lidos, 2 stealth eliminados (um deles, startup-11350e2a5296, com $4,654 e pagamento em 27 de 30 dias, mas anônimo). 1 vencedor novo dentro de US$ 1 mil a 20 mil, que **não passa no Teste final**.
+
+1. Reception | https://reception.sh/ | https://trustmrr.com/startup/reception | $2,895 (14 de 30 dias; $950 em 29/10; **$0 nos últimos 7 dias**) | Stripe | vazio (TrustMRR); depoimentos de clientes no X citados no site | 2026-11-16 | 11/25 (pagamentos 2, crescimento 1, encaixe 4, demanda 3, vender só 1) | não (pico de lançamento; o fundador tem 19.057 seguidores no X)
+
+Atualização dos anteriores:
+- **lumabar** saltou para $12,015 em 30 dias (30 de 30 dias com pagamento), mas $3,919 caíram num único dia (15/11) e $7,520 nos últimos 7 dias. Pico viral sobre uma base estável.
+- **Scalereach** está em $6,585 (24 de 30 dias, MRR $2,988, 175 assinaturas).
+- **Chart Scanner AI** está em $3,588 (30 de 30 dias, MRR $2,981).
+- **TapNoise** está em $1,330 (29 de 30 dias).
+
 ## 2026-11-15
 
 Filtro: 25 lidos, 1 stealth eliminado. 2 vencedores novos dentro de US$ 1 mil a 20 mil.

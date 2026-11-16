@@ -1,24 +1,36 @@
-# Bom dia! Resumo de 2026-11-15 (Diária)
+# Bom dia! Resumo de 2026-11-16 (Semanal)
 
-## O dia em 3 linhas
-1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram. Há **2 vencedores novos** dentro do filtro, e um deles é steal-ready.
-2. **Nagomi** (19/25): um lago de carpas na área de trabalho do Mac, por US$ 4.99, com pagamento em 27 de 30 dias. A ficha está em `sheets/nagomi-2026-11-15.md`.
-3. **Padrão da semana:** os vencedores mais limpos (lumabar, TapNoise, Nagomi) são todos apps de desktop simples de pagamento único, de fundadores sem audiência. O lumabar chegou a $7,199 (29 de 30 dias).
+## A semana em 3 linhas
+1. Li os 25 negócios do TrustMRR. Só **1 vencedor novo** entrou no filtro hoje (Reception), e ele **não passa no Teste final**: foi um pico de lançamento, com $0 nos últimos 7 dias.
+2. **lumabar explodiu:** $12,015 em 30 dias, com $3,919 num único dia (15/11). A base é estável (30 de 30 dias com pagamento), e por cima veio um pico viral.
+3. Vencedores da semana passada, do mais forte ao mais fraco: **lumabar**, **Scalereach** ($6,585, MRR $2,988), **Chart Scanner AI** ($3,588, 30 de 30 dias), **TapNoise** e **Nagomi**.
 
-## Vencedores novos
-1. **Nagomi** com 19/25, **$1,277** em 30 dias (Polar) e pagamento em **27 de 30 dias**. O fundador tem 35 seguidores no X.
-   - **WHY THIS COULD FAIL:** é um produto de novidade com ticket de US$ 4.99, a receita caiu desde o lançamento ($953 em outubro, agora cerca de US$ 29 por dia) e há concorrentes de US$ 2 a 3 fáceis de clonar.
-2. **Project 1**, **$1,875** em 30 dias (Stripe) e pagamento em **27 de 30 dias**. Não foi pontuado.
-   - **WHY THIS COULD FAIL:** não tem site nem descrição do produto. Dá para ver que vende, mas não o quê, então é impossível copiar.
+## Ranking geral dos vencedores (steal-ready)
 
-## A ficha em 5 linhas (`sheets/nagomi-2026-11-15.md`)
-1. **Demanda:** apps de aquário e lago de carpas vendem na Steam e na Mac App Store (o My Koi tem avaliações muito positivas), e há poucos concorrentes no Mac.
-2. **Oferta:** US$ 4.99 em pagamento único, com 4 cenários, vários monitores e peixes que "aprendem sua rotina", pago via Polar.
-3. **Canais:** vazio no TrustMRR. Os concorrentes estão na Steam e nas lojas de apps (web search).
-4. **Meu ângulo:** um aquário para telas de recepção e clínicas (licença por tela), venda na Steam e pacotes de cenários pagos.
-5. **Versão Brasil:** um cenário brasileiro (Pantanal, Amazônia), Pix via Kiwify e a *sugestão* de R$ 14,90 a 24,90. Não pesquisei a demanda BR.
+| # | Negócio | Receita em 30 dias | Dias com pagamento | Observação |
+|---|---|---|---|---|
+| 1 | **lumabar** | $12,015 | 30 de 30 | Dock para Windows, US$ 5.99 em pagamento único |
+| 2 | **Scalereach** | $6,585 | 24 de 30 | Cortes de vídeo com IA, MRR $2,988 em 175 assinaturas |
+| 3 | **Chart Scanner AI** | $3,588 | 30 de 30 | Sinais de trading por foto, MRR $2,981 |
+| 4 | **Nagomi** | $1,277 (dado de 15/11) | 27 de 30 | Lago de carpas para Mac |
+| 5 | **Morphy** | $1,062 (dado de 12/11) | 22 de 30 | Desapareceu do top 25 |
+
+- **WHY THIS COULD FAIL (lumabar):** o salto atual é um pico viral. Ele pode voltar a cerca de US$ 100–200 por dia. O ticket é baixo, e a Microsoft pode mudar a barra de tarefas.
+- **WHY THIS COULD FAIL (Scalereach):** mercado lotado (Opus Clip e afins), custo de GPU alto e canais que exigem conteúdo.
+- **WHY THIS COULD FAIL (Chart Scanner AI):** risco regulatório e ético de "sinal de trading", e muitos clones.
+
+## Vencedor novo da semana
+1. **Reception** com 11/25, **$2,895** em 30 dias (Stripe) e pagamento em 14 de 30 dias. É um chat de suporte dentro de apps mobile, que oferece desconto e pede avaliação.
+   - **WHY THIS COULD FAIL:** foi pico de lançamento ($2,716 em outubro, $0 nos últimos 7 dias), o fundador tem 19 mil seguidores no X e Intercom e Crisp já ocupam o mercado.
+
+## A ficha em 5 linhas (`sheets/reception-2026-11-16.md`, **não recomendado**)
+1. **Demanda:** depoimentos de clientes no X dizem ter ganhado assinaturas com o chat.
+2. **Oferta:** SDK de chat iOS e Android, com plano grátis e US$ 25 por mês, pago via Stripe.
+3. **Canais:** vazio no TrustMRR. Na prática, a audiência do fundador no X.
+4. **Meu ângulo:** versão para web e SaaS com Stripe, venda pelo marketplace do RevenueCat e cobrança por receita recuperada.
+5. **Versão Brasil:** *sugestão* de R$ 99 a 149 por mês, com Stripe BR ou Asaas e comunidades de Flutter e iOS. Não pesquisei a demanda BR.
 
 ## Esperando sua resposta
-- Você topa nichos de trading (Chart Scanner AI, de ontem)? Se não, ele vai para a lista do não.
+- **Hora de decidir:** depois de 13 dias de dados, o **lumabar** é o vencedor mais consistente. Quer que eu monte um plano para fazer uma versão própria (outro público ou outra plataforma)?
+- Você topa nichos de trading (Chart Scanner AI)?
 - O `.claude/settings.json` com a liberação do push ainda não foi atualizado.
-- Quer começar um projeto? O lumabar continua sendo o mais forte.
