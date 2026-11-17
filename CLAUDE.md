@@ -108,3 +108,11 @@ Termine a ficha de cópia e cada vencedor no `morning.md` com uma seção chamad
 
 ## Lista do não
 (vazio)
+
+## Verificação (SÓ sessões interativas; Scout, Checker, Thief e Semanal ignoram esta seção)
+Quando o usuário editar o processo deste repositório numa sessão interativa:
+- Checagem: `scripts/check.sh` valida o formato de cada linha numerada de `list.md`
+  (9 campos, data AAAA-MM-DD, nota N/25) e grava o relatório em `.claude/reports/`.
+- Mostre os comandos e a saída bruta antes de qualquer resumo.
+- Use o subagente `cetico` para questionar mudanças de critério e o `revisor`
+  (só brief, diff e relatório) antes de dar a mudança por terminada.
