@@ -2,6 +2,16 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-17
+
+Filtro: 25 lidos, 2 stealth eliminados. 3 vencedores novos dentro de US$ 1 mil a 20 mil. **Nenhum é steal-ready.**
+
+1. Lowdeo | https://lowdeo.com/ | https://trustmrr.com/startup/lowdeo | $1,158 (8 de 30 dias; $561 em 16/11; $1,128 nos últimos 7 dias) | Stripe | Instagram (TrustMRR) | 2026-11-17 | 17/25 (pagamentos 2, crescimento 4, encaixe 4, demanda 4, vender só 3) | não (1 ponto abaixo; acabou de decolar)
+2. Deepnia | https://deepnia.com/ | https://trustmrr.com/startup/deepnia | $1,010 (27 de 30 dias; maior dia 32%) | Whop | vazio | 2026-11-17 | 16/25 (5/3/3/3/2) | não (o fundador tem 4.808 seguidores; a página diz que a maior parte da receita está num provedor fora do TrustMRR)
+3. Wysera | https://wysera.ai/ | https://trustmrr.com/startup/wysera | $18,250 (2 de 30 dias; $18,000 em 09/11) | Stripe | Blog, SEO, LinkedIn e mais 7 (TrustMRR) | 2026-11-17 | 7/25 (1/1/2/2/1) | não (dia de sorte; venda fechada por call)
+
+Atualização dos anteriores: lumabar $14,483 (30 de 30 dias), Scalereach $7,222 (MRR $3,259, 191 assinaturas), Chart Scanner AI $3,638 (MRR $3,148), TapNoise $1,377 (29 de 30 dias).
+
 ## 2026-11-16 (Semanal)
 
 Filtro: 25 lidos, 2 stealth eliminados (um deles, startup-11350e2a5296, com $4,654 e pagamento em 27 de 30 dias, mas anônimo). 1 vencedor novo dentro de US$ 1 mil a 20 mil, que **não passa no Teste final**.
