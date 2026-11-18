@@ -2,6 +2,12 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-18
+
+Filtro: 25 lidos, 4 stealth eliminados (um deles, private-venture-94, com $11,214, pagamento em 28 de 30 dias e 353 assinaturas, mas anônimo). **Nenhum vencedor novo.**
+Mais próximos entre os novos (todos abaixo de US$ 1 mil): Antwork ($890, 12 de 30 dias, MRR $283), FUXUX ($825, 1 de 30 dias, dia de sorte) e Useless Ads ($134, 15 de 30 dias).
+Atualização dos anteriores: lumabar $15,824 (29 de 30 dias), Scalereach $9,521 (MRR $4,015, 237 assinaturas), Chart Scanner AI $3,833 (30 de 30 dias), Deepnia $1,030 (28 de 30 dias). O Lowdeo caiu de $1,158 para $939 em 30 dias, o que é possível reembolso, e saiu do filtro.
+
 ## 2026-11-17
 
 Filtro: 25 lidos, 2 stealth eliminados. 3 vencedores novos dentro de US$ 1 mil a 20 mil. **Nenhum é steal-ready.**
