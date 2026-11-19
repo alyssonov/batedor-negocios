@@ -2,6 +2,14 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-19
+
+Filtro: 25 lidos, 3 stealth eliminados. 1 vencedor novo dentro de US$ 1 mil a 20 mil.
+
+1. YIAN.UK | https://yian.uk/ | https://trustmrr.com/startup/yian-uk | $4,821 (24 de 30 dias; maior dia 13%) | Stripe | Blog, SEO, Instagram, TikTok, YouTube e mais 6 (TrustMRR); Trustpilot e TikTok citados no site | 2026-11-19 | 17/25 (pagamentos 5, crescimento 5, encaixe 1, demanda 4, vender só 2) | não (a receita vem de restauração física de cartas Pokémon, um trabalho manual; só o app de pré-avaliação por IA serve para você)
+
+Atualização dos anteriores: lumabar $16,663 (29 de 30 dias), Scalereach $10,448 (MRR $4,531, 258 assinaturas), Chart Scanner AI $3,916 (30 de 30 dias), Lowdeo voltou para $1,371 (MRR $1,142), Deepnia $1,076 (29 de 30 dias).
+
 ## 2026-11-18
 
 Filtro: 25 lidos, 4 stealth eliminados (um deles, private-venture-94, com $11,214, pagamento em 28 de 30 dias e 353 assinaturas, mas anônimo). **Nenhum vencedor novo.**

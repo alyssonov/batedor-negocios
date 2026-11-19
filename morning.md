@@ -1,19 +1,20 @@
-# Bom dia! Resumo de 2026-11-18 (Diária)
-
-**Nenhum vencedor novo hoje.** Os novos dentro do filtro eram todos anônimos (stealth).
+# Bom dia! Resumo de 2026-11-19 (Diária)
 
 ## O dia em 3 linhas
-1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram. 4 eram stealth, incluindo um com $11,214 em 30 dias e 353 assinaturas, que não dá para copiar porque não sabemos o que é.
-2. **Scalereach** acelerou: $9,521 em 30 dias, com MRR de $4,015 em 237 assinaturas. Eram 91 assinaturas em 04/11. Já o **Lowdeo** (mesma categoria) caiu de $1,158 para $939, possivelmente por reembolso.
-3. **lumabar** está em $15,824 em 30 dias, com pagamento em 29 de 30 dias. O plano para ele está em `plans/lumabar-plano.md`.
+1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram. Há **1 vencedor novo** no filtro, mas ele não é steal-ready.
+2. **YIAN.UK** (17/25) restaura cartas Pokémon no Reino Unido, com pagamento em 24 de 30 dias e crescendo rápido. A receita vem de **trabalho manual**, então a ficha foca só no app de pré-avaliação por IA que eles dão de graça: `sheets/yian-uk-2026-11-19.md`.
+3. Os anteriores continuam subindo: **lumabar** com $16,663, **Scalereach** com $10,448 (MRR $4,531, 258 assinaturas) e **Chart Scanner AI** com $3,916 (30 de 30 dias).
 
-## Os 3 mais próximos (novos, todos abaixo de US$ 1 mil)
-1. **Antwork:** $890 em 30 dias, pagamento em 12 de 30 dias, MRR de $283, e o fundador tem 13 seguidores no X.
-   - **WHY THIS COULD FAIL:** ainda está abaixo do piso de US$ 1 mil e paga em menos da metade dos dias.
-2. **FUXUX:** $825 em 30 dias, mas pagamento em **1 de 30 dias**.
-   - **WHY THIS COULD FAIL:** é dia de sorte, provavelmente um cliente só.
-3. **Useless Ads:** $134 em 30 dias, pagamento em 15 de 30 dias.
-   - **WHY THIS COULD FAIL:** a receita é muito pequena.
+## Vencedor novo
+1. **YIAN.UK** com 17/25, **$4,821** em 30 dias (Stripe) e pagamento em **24 de 30 dias**. Outubro teve $1,013 e novembro já tem $3,862.
+   - **WHY THIS COULD FAIL (para você):** a receita é de serviço físico (£30 por carta), o app em si é grátis e não há prova de que alguém pague só pelo software. Restaurar cartas para subir a nota levanta questões éticas com as graduadoras.
+
+## A ficha em 5 linhas (`sheets/yian-uk-2026-11-19.md`)
+1. **Demanda:** colecionadores não sabem se vale graduar ou consertar uma carta. O site mostra 277 avaliações grátis e 97 restaurações.
+2. **Oferta:** pré-avaliação por IA grátis com limite diário (iPhone e web) e restauração a £30 por carta, paga via Stripe.
+3. **Canais:** TikTok, SEO, influenciadores e afiliados (TrustMRR), e Trustpilot.
+4. **Meu ângulo:** um app só de software para pré-avaliar qualquer carta colecionável, uma versão B2B para lojas e comissão de afiliado com graduadoras.
+5. **Versão Brasil:** *sugestão* de R$ 4,90 por relatório via Pix, vendido para lojas e grupos de colecionadores. Não pesquisei a demanda BR.
 
 ## Esperando sua resposta
 - **Plano do lumabar:** diga "começa a fase 0" para eu criar a landing page de validação.
