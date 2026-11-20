@@ -2,6 +2,15 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-20
+
+Filtro: 25 lidos, 5 stealth eliminados. 2 vencedores novos dentro de US$ 1 mil a 20 mil.
+
+1. Tangible | https://tangible.pics/ | https://trustmrr.com/startup/tangible | $2,411 (17 de 30 dias; maior dia 25%) | Stripe | App Store Optimization, SEO, Blog, E-mail, Indicação (TrustMRR) | 2026-11-20 | 20/25 (pagamentos 3, crescimento 5, encaixe 4, demanda 4, vender só 4) | **steal-ready** (com ressalva de sazonalidade de Natal)
+2. mecartoo | https://mecartoo.com/ | https://trustmrr.com/startup/mecartoo | $6,606 (23 de 30 dias; $1,522 em 24/10) | Stripe | vazio | 2026-11-20 | 12/25 (4/2/3/2/1) | não (marketplace; o valor pode ser o total vendido pelas lojas, não a receita da plataforma; 0 usuários estimados)
+
+Atualização dos anteriores: lumabar $17,001 (29 de 30 dias), Scalereach $14,208 (MRR $6,056, 339 assinaturas), YIAN.UK $5,252 (25 de 30 dias), Lowdeo $1,415 (MRR $1,122).
+
 ## 2026-11-19
 
 Filtro: 25 lidos, 3 stealth eliminados. 1 vencedor novo dentro de US$ 1 mil a 20 mil.
