@@ -2,6 +2,14 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-21
+
+Filtro: 25 lidos, 6 stealth eliminados. 1 vencedor novo dentro de US$ 1 mil a 20 mil.
+
+1. AppZoku | https://appzoku.com/ | https://trustmrr.com/startup/appzoku | $4,278 (23 de 30 dias; maior dia 22%) | Dodo Payments | Blog, Newsletter, SEO, Cold DM (TrustMRR); depoimentos de devs iOS no site | 2026-11-21 | 20/25 (pagamentos 4, crescimento 5, encaixe 4, demanda 4, vender só 3) | **steal-ready** (ressalva: o fundador tem 5.124 seguidores no X)
+
+Atualização dos anteriores: lumabar $17,275 (29 de 30 dias), Scalereach $14,839 (MRR $6,393, 358 assinaturas), YIAN.UK $5,552 (26 de 30 dias), Tangible $2,638 (19 de 30 dias), Lowdeo $1,513 (MRR $1,238).
+
 ## 2026-11-20
 
 Filtro: 25 lidos, 5 stealth eliminados. 2 vencedores novos dentro de US$ 1 mil a 20 mil.
