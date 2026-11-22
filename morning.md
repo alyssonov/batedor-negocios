@@ -1,20 +1,19 @@
-# Bom dia! Resumo de 2026-11-21 (Diária)
+# Bom dia! Resumo de 2026-11-22 (Diária)
+
+**Nenhum vencedor novo hoje.** Os novos que estavam perto ficaram fora da faixa de US$ 1 mil a 20 mil ou são stealth.
 
 ## O dia em 3 linhas
-1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram. Há **1 vencedor novo** no filtro, e ele é steal-ready.
-2. **AppZoku** (20/25): gera vídeos e posts de marketing com IA para apps iOS indie, com MRR de $1,497 e decolando em novembro. A ficha está em `sheets/appzoku-2026-11-21.md`. A ressalva é que o fundador tem 5,1 mil seguidores no X.
-3. Os anteriores seguem fortes: **lumabar** com $17,275, **Scalereach** com $14,839 (MRR $6,393) e **YIAN.UK** com $5,552.
+1. Li os 25 negócios do TrustMRR às 04:55, e todos abriram. 5 eram stealth.
+2. O mais forte dos novos, **Louna's Models**, com $22,539, passou do teto de US$ 20 mil. Além disso, é uma agência de conteúdo adulto, um serviço, e não software.
+3. Os anteriores seguem subindo: **lumabar** com $17,525, **Scalereach** com $15,233 (MRR $6,621, 371 assinaturas), **AppZoku** com $4,643 e **Tangible** com $3,040.
 
-## Vencedor novo
-1. **AppZoku** com 20/25, **$4,278** em 30 dias (Dodo Payments) e pagamento em **23 de 30 dias**. MRR de $1,497 em 68 assinaturas.
-   - **WHY THIS COULD FAIL:** o fundador tem audiência e faz cold DM, a receita é quase toda de novembro, o custo de IA de vídeo é alto e o "UGC de IA" pode ser restringido pelas redes.
-
-## A ficha em 5 linhas (`sheets/appzoku-2026-11-21.md`)
-1. **Demanda:** devs indie dizem que a ferramenta "salvou muito tempo" e que os reels "são bem convincentes" (depoimentos do site).
-2. **Oferta:** grátis para gerar, Hobbyist a US$ 10 por mês, Pro a US$ 49 e Studio a US$ 99, pago via Dodo Payments.
-3. **Canais:** Blog, Newsletter, SEO e Cold DM (TrustMRR), e ferramentas grátis no site.
-4. **Meu ângulo:** versão para Android e SaaS, ferramentas grátis de ASO para atrair pela busca e piloto automático com cobrança por resultado.
-5. **Versão Brasil:** conteúdo em português, a *sugestão* de R$ 29 a 149 por mês, com Pix e comunidades de devs mobile BR. Não pesquisei a demanda BR.
+## Os 3 mais próximos (novos)
+1. **Louna's Models:** $22,539 em 30 dias, pagamento em 29 de 30 dias, MRR de $3,695.
+   - **WHY THIS COULD FAIL:** está acima do teto do filtro, é um serviço de agência (não software) e trabalha com conteúdo adulto.
+2. **Antwork:** $967 em 30 dias, pagamento em 13 de 30 dias, MRR de $360, e o fundador tem 13 seguidores no X. Agenda posts em 12 redes, com rascunhos escritos pela sua IA (ChatGPT, Claude, Cursor, Codex).
+   - **WHY THIS COULD FAIL:** ainda está abaixo do piso de US$ 1 mil, e agendadores de redes sociais são um mercado lotado (Buffer, Hootsuite).
+3. **Outloud Reader:** $347 em 30 dias, pagamento em 24 de 30 dias. Fotografa uma página e lê em voz alta, para quem aprende idiomas.
+   - **WHY THIS COULD FAIL:** a receita é pequena, e texto para voz é um recurso que os celulares já têm de graça.
 
 ## Esperando sua resposta
 - **Plano do lumabar:** diga "começa a fase 0" para eu criar a landing page de validação.

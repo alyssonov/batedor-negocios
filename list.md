@@ -2,6 +2,16 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-22
+
+Filtro: 25 lidos, 5 stealth eliminados. **Nenhum vencedor novo.**
+Mais próximos entre os novos:
+- Louna's Models: $22,539, acima do teto de US$ 20 mil, com pagamento em 29 de 30 dias. É uma agência de criadoras de conteúdo adulto (OnlyFans), ou seja, um serviço, não software.
+- Antwork: $967, abaixo do piso, com pagamento em 13 de 30 dias e MRR de $360. É um agendador de redes sociais conectado a agentes de IA.
+- Outloud Reader: $347, com pagamento em 24 de 30 dias. É um app de texto para voz.
+
+Atualização dos anteriores: lumabar $17,525 (29 de 30 dias), Scalereach $15,233 (MRR $6,621, 371 assinaturas), YIAN.UK $5,621, AppZoku $4,643 (24 de 30 dias), Tangible $3,040.
+
 ## 2026-11-21
 
 Filtro: 25 lidos, 6 stealth eliminados. 1 vencedor novo dentro de US$ 1 mil a 20 mil.
