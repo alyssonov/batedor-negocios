@@ -2,6 +2,16 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-26
+
+Filtro: 25 lidos, 2 stealth eliminados. 2 vencedores novos dentro de US$ 1 mil a 20 mil. As rodadas de 23/11 (Semanal), 24/11 e 25/11 chegaram atrasadas e foram cobertas por esta.
+
+1. Antwork | https://antwork.io/ | https://trustmrr.com/startup/antwork | $1,359 (16 de 30 dias; maior dia 16%) | Stripe | vazio (TrustMRR); o site tem páginas por agente de IA e por rede social (SEO programático) e um servidor MCP | 2026-11-26 | 21/25 (pagamentos 4, crescimento 5, encaixe 5, demanda 3, vender só 4) | **steal-ready**
+2. Mirage | https://usemirage.io/ | https://trustmrr.com/startup/mirage | $1,544 (7 de 30 dias; $1,524 nos últimos 7 dias) | Dodo Payments | Reddit, Pinterest, X, Product Hunt (TrustMRR) | 2026-11-26 | 16/25 (2/4/4/3/3) | não (receita concentrada nos últimos 7 dias)
+
+Fora do filtro: Clawdi aparece com $439,501 em 30 dias, mas o maior dia concentra 100% do total diário, e o fundador tem 14.548 seguidores no X. Fica muito acima do teto.
+Atualização dos anteriores: Tangible $4,068 (23 de 30 dias), Lowdeo $1,695 (MRR $1,414). lumabar, Scalereach, AppZoku e YIAN.UK não apareceram no top 25 de hoje.
+
 ## 2026-11-22
 
 Filtro: 25 lidos, 5 stealth eliminados. **Nenhum vencedor novo.**
