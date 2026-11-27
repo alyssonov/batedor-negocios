@@ -2,6 +2,15 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-27
+
+Filtro: 25 lidos, 1 stealth eliminado. 1 novo dentro de US$ 1 mil a 20 mil, que **não passa no Teste final**. **Nenhum vencedor novo.**
+
+1. Faceless Vidz | https://www.facelessvidz.com/ | https://trustmrr.com/startup/faceless-vidz | $16,110 (11 de 30 dias; **$5,327 em 25/11 e $10,261 em 26/11 = 97% em 2 dias**) | Stripe | SEO, Instagram, TikTok, YouTube, Afiliados (TrustMRR) | 2026-11-27 | 10/25 (pagamentos 1, crescimento 2, encaixe 3, demanda 3, vender só 1) | não (dia de sorte, provavelmente uma promoção de Black Friday; antes disso, entre US$ 9 e US$ 200 por dia, e MRR de só $161)
+
+Mais próximos entre os novos: Bridgly ($785, 12 de 30 dias), Luxechain AI ($715, 6 de 30 dias) e ReviewLabs ($637, 2 de 30 dias).
+Atualização dos anteriores: Tangible $4,678 (23 de 30 dias), Antwork $1,449 (17 de 30 dias, MRR $473), Mirage $1,908, Lowdeo $1,695.
+
 ## 2026-11-26
 
 Filtro: 25 lidos, 2 stealth eliminados. 2 vencedores novos dentro de US$ 1 mil a 20 mil. As rodadas de 23/11 (Semanal), 24/11 e 25/11 chegaram atrasadas e foram cobertas por esta.
