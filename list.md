@@ -2,6 +2,16 @@
 
 Formato: nome | site | link TrustMRR | receita 30 dias | verificado via | canais | data | nota/25 | steal-ready?
 
+## 2026-11-28
+
+Filtro: 25 lidos, 1 stealth eliminado. 1 novo dentro de US$ 1 mil a 20 mil, que **não passa no Teste final**. **Nenhum vencedor novo.**
+
+1. posts.design | https://posts.design/ | https://trustmrr.com/startup/posts | $3,460 (9 de 30 dias; **$2,400 em 13/11 = 69%**) | Stripe | vazio | 2026-11-28 | 9/25 (pagamentos 1, crescimento 2, encaixe 3, demanda 2, vender só 1) | não (dia de sorte; o histórico mensal e o pagamento de $2,400 em 13/11 são **idênticos aos do pawr**, que provavelmente é do mesmo fundador, com 1,9 mil seguidores no X)
+
+Mais próximos entre os novos: Bridgly ($795, 13 de 30 dias; APIs prontas de dados de redes sociais), GlobeSIM ($286, 19 de 30 dias; eSIM de viagem) e Bíblia Viva ($135, 16 de 30 dias, app em português).
+Fora do filtro: Faceless Vidz subiu para $25,543, acima do teto, ainda puxado pela promoção de 25 e 26/11.
+Atualização dos anteriores: Tangible $5,037 (25 de 30 dias), Mirage $2,344, Lowdeo $1,717 (MRR $1,401), Antwork $1,449 (MRR $473).
+
 ## 2026-11-27
 
 Filtro: 25 lidos, 1 stealth eliminado. 1 novo dentro de US$ 1 mil a 20 mil, que **não passa no Teste final**. **Nenhum vencedor novo.**
